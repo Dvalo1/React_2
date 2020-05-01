@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+.posts {
+    border: 4px solid transparent;
+  }
+  
+  .title {
+    font-size: 2em;
+    color: #fff;
+    font-family: 'Karla', sans-serif;
+    margin: 10px;
+  }
+  

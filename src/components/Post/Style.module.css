@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+.title {
+    font-size: 19px;
+    color: #cd5554;
+    font-family: 'Karla', sans-serif;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 2px;
+  }
+  
+  .loading {
+    color: red;
+    font-size: larger;
+  }
+  
+  .detail {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    color: #efba4d;
+  }
